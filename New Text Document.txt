@@ -1,6 +1,7 @@
 Git push number 1
 
 
+<<<<<<< HEAD
 Git push number 2
 
 
@@ -8,3 +9,6 @@ Git push NUmber 3
 
 
 git push number 4
+=======
+Git push number 2
+>>>>>>> aafaaa4... Second commit
